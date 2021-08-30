@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ayahnoor
+- 👋 Hi, I’m Ayah Assaadi! 
 - 👀 I’m interested in technology consulting & data analysis/coding.
 - 🌱 I’m currently learning machine learning, coding & data visualization!
 - 💞️ I’m looking to collaborate on interactive and visually pleasing projects that draw insights from the social issues our world is facing.
